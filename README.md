@@ -1,2 +1,12 @@
-# Fazenda-Sustent-vel
-Projeto Agrinho 2026 sobre agricultura sustentável, inovação tecnológica e preservação ambiental.
+agrinho-2026/
+│
+├── README.md
+├── imagens/
+│   ├── maquete.jpg
+│   ├── irrigacao.png
+│   └── biodigestor.png
+├── documentos/
+│   ├── apresentacao.pptx
+│   └── relatorio.pdf
+└── codigo/
+    └── exemplo_sensor.ino
