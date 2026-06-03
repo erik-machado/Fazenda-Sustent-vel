@@ -151,7 +151,7 @@ Investir em sustentabilidade no campo significa proteger os recursos naturais, f
 
 ---
 
-# Referências
+
 
 EMBRAPA. Agricultura Sustentável.
 
